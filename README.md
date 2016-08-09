@@ -8,7 +8,8 @@ Complete methods for the development of the three indices can be found in Seekel
 Three indicators relating to resilience in the global food system are provided for each country from 1992 to 2011 when data were available. 
 Briefly, the three indicators presented are: 
 
-1) Socio-economic indicator (SE) 
+**1) Socio-economic indicator (SE)**
+
 We calculated an index of socio-economic access to food based on the average income of the lowest 20% of each country’s income distribution and average per capita food expenditure as key indicators in forming a domestic food price index. 
 This index reflects resilience to short term changes in food prices. 
 Estimates of the income of the lowest 20% of the population are based on several sources. 
@@ -18,7 +19,8 @@ Estimates of the lowest 20% of the income distribution use the methods used in t
 We combined these two metrics into a single index by taking the ratio of income to food price. 
 Indicator values approaching 1 from above suggest increasing trade-offs with other critical expenditures (e.g., housing) and reduced ability to make-up caloric deficits through food purchase.
 
-2) Biophysical capacity to produce food indicator (BioPysical)
+**2) Biophysical capacity to produce food indicator (BioPysical)**
+
 We use the biophysical capacity indicator developed and described by Fader et al (2016). 
 In this indicator unused freshwater resources were estimated based on data from the FAO AQUASTAT database. 
 Unused resources were calculated as the total renewable freshwater resources minus water withdraws, environmental flow requirements, and the amount of water that is unavailable due to seasonal variability, rainfall intensity, spatial access, or lack of infrastructure. 
@@ -33,10 +35,13 @@ In other words, increasing amount of available farmland does not increase biophy
 However, extensifying or intensifying (yield gap closure) can both (or either) be used to increase biophysical capacity. 
 This index is scaled between 0 and 1, with values less than 0.5 indicating limited water, land, or productivity redundancy.
 
-3) Production diversity indicator (HIndex)
+**3) Production diversity indicator (HIndex)**
+
 We applied the “h-index” from bibliometric analyses to evaluate total production and breadth of production. 
 First, we calculated the annual domestic production of each commodity in each country:
-Ci = Ki / Pi
+
+`Ci = Ki / Pi`
+
 where Ki is the total kcal produced by a commodity in a given year and country, and Pi is the population. 
 Ki was determined using the FAO commodities database (given in units of weight) and using the FAO conversion factors to express Ki in kcal. 
 For this analysis, we only considered primary food products. 
