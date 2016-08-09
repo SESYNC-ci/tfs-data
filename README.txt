@@ -1,4 +1,4 @@
-README for Global_Food_Security_Indicators.csv
+README for Global_Food_System_Resilience_Indicators.csv
 
 The data in this file were used for the analysis and to generate the figures in Seekell et al. (in review).
 Complete methods for the development of the three indices can be found in Seekell et al. (in review) and Fader et al. (2016) Past and present biophysical redundancy of countries as a buffer to changes in food supply. Environmental Research Letters, 11 055008.
