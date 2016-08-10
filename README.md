@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/23800/SESYNC-ci/tfs-data.svg)](https://zenodo.org/badge/latestdoi/23800/SESYNC-ci/tfs-data)
+[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.59933.svg)](http://dx.doi.org/10.5281/zenodo.59933)
 
 README for Global_Food_System_Resilience_Indicators.csv
 
