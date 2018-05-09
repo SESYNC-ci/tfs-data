@@ -1,4 +1,5 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.192394.svg)](https://doi.org/10.5281/zenodo.192394)
+
+*Note: updated data files on 9 May 2018 correct a previous release*
 
 README for Global_Food_System_Resilience_Indicators.csv
 
